@@ -185,3 +185,5 @@ Generated files are **never committed**.
 ---
 
 ✅ **Framework is CI-ready and production-aligned.**
+<img width="1897" height="851" alt="image" src="https://github.com/user-attachments/assets/fd914fd2-d7e8-4c51-8319-1021e84e48d3" />
+
