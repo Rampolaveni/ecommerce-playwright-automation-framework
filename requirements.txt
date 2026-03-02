@@ -1,0 +1,18 @@
+# Core
+pytest==9.0.2
+pluggy==1.6.0
+
+# Playwright
+playwright==1.43.0
+pytest-playwright==0.7.2
+
+# Pytest plugins (from your output)
+pytest-base-url==2.1.0
+pytest-bdd==8.1.0
+pytest-html==4.2.0
+pytest-metadata==3.1.1
+pytest-xdist==3.8.0
+
+# Utilities (commonly used)
+requests==2.31.0
+python-dotenv==1.0.1
